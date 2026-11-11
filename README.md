@@ -4,7 +4,7 @@ Estudiante de Ingeniería en Software | Desarrollo de aplicaciones | C# · SQL S
 ¡Hola! Soy Geovani, estudiante de Ingeniería en Software en la Universidad Domínico-Americana (UNICDA) y técnico en Desarrollo y Administración de Aplicaciones Informáticas. Me interesa crear aplicaciones útiles, aprender de proyectos reales y continuar creciendo como desarrollador de software.
 
 Este repositorio reúne aplicaciones que he desarrollado, con una explicación de sus funciones, tecnologías y decisiones técnicas. Mi objetivo es compartir mi trabajo y facilitar su revisión por parte de equipos de desarrollo y reclutadores.
-Proyectos destacados
+Proyectos destacados:
  Mi Bolsillo — Aplicación móvil de finanzas personales
 Aplicación para registrar ingresos y gastos, consultar estadísticas, administrar presupuestos y organizar metas de ahorro.
 - Tecnologías: React Native, JavaScript, Expo y SQLite.
