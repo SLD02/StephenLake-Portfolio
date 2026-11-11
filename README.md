@@ -5,13 +5,13 @@ Estudiante de Ingeniería en Software | Desarrollo de aplicaciones | C# · SQL S
 
 Este repositorio reúne aplicaciones que he desarrollado, con una explicación de sus funciones, tecnologías y decisiones técnicas. Mi objetivo es compartir mi trabajo y facilitar su revisión por parte de equipos de desarrollo y reclutadores.
 Proyectos destacados
-📱 Mi Bolsillo — Aplicación móvil de finanzas personales
+ Mi Bolsillo — Aplicación móvil de finanzas personales
 Aplicación para registrar ingresos y gastos, consultar estadísticas, administrar presupuestos y organizar metas de ahorro.
 - Tecnologías: React Native, JavaScript, Expo y SQLite.
 - Funciones trabajadas: registro de movimientos, resúmenes financieros, presupuestos, metas de ahorro y personalización de la interfaz.
 - Plataformas de prueba: Android e iOS.
 - Código, capturas e instrucciones: se incorporarán en la carpeta Mi-Bolsillo/.
-🧾 Sistema de Facturación — Aplicación de escritorio
+   Sistema de Facturación — Aplicación de escritorio
 Proyecto de gestión de facturas, desarrollado con una interfaz de escritorio y base de datos relacional.
 - Tecnologías: C#, Windows Forms y SQL Server.
 - Funciones trabajadas: inicio de sesión, operaciones de registro y consulta, gestión de facturas y acceso a datos mediante SQL Server.
