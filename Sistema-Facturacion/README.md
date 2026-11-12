@@ -1,37 +1,49 @@
-# 🧾 Sistema de Facturación — C# y SQL Server
+# 🧾 Sistema de Facturación — Aplicación de escritorio
 
-**Tipo:** proyecto académico · **Plataforma:** Windows · **Tecnologías:** C#, Windows Forms, .NET 8, Entity Framework Core y SQL Server.
+**Proyecto académico · Windows · C# · Windows Forms · .NET 8 · Entity Framework Core · SQL Server**
 
-## Descripción
+Sistema de escritorio para registrar ventas, administrar información de facturación y generar comprobantes y reportes.
 
-Aplicación de escritorio para gestionar productos, clientes, cajeros, facturas y reportes. Usa base de datos relacional y un inicio de sesión con roles.
-
-## Funcionalidades
+## Funciones principales
 
 - Inicio de sesión de administrador y cajeros.
-- Administración de productos, clientes y cuentas de usuario.
-- Registro de facturas y cálculo de impuestos.
-- Ventas al contado y a crédito.
-- Impresión y reimpresión de facturas.
-- Consultas y reportes de ventas e inventario.
+- Gestión de productos, clientes y usuarios.
+- Registro de ventas al contado o a crédito.
+- Cálculo de subtotal, ITBIS, total y cambio a devolver.
+- Generación, impresión y consulta de facturas.
+- Reportes de ventas y cuadre del día.
 
-## Capturas de pantalla
+## Capturas reales de la aplicación
 
-Pendientes de añadir. Usa los datos de prueba indicados en la [guía de capturas](imagenes/LEEME_CAPTURAS.md).
+### 1. Acceso al sistema
+
+![Formulario de acceso](imagenes/acceso.png)
+
+### 2. Nueva venta
+
+![Interfaz de nueva venta](imagenes/nueva-venta.png)
+
+### 3. Factura generada
+
+![Factura emitida desde el sistema](imagenes/factura-generada.png)
+
+### 4. Reporte / cuadre del día
+
+![Reporte de facturación](imagenes/reporte-cuadre-dia.png)
 
 ## Cómo ejecutarlo
 
 1. Instala **Visual Studio 2022** con desarrollo de escritorio .NET.
 2. Instala **.NET 8 SDK** y SQL Server Express o LocalDB.
-3. Abre `codigo-fuente/SistemaFacturacionWinForms.sln`.
+3. Abre [`codigo-fuente/SistemaFacturacionWinForms.sln`](codigo-fuente/SistemaFacturacionWinForms.sln).
 4. Restaura los paquetes y presiona **F5**.
-5. Configura tu servidor SQL Server y crea la cuenta administradora inicial.
+5. Configura el servidor SQL Server y crea la cuenta administradora inicial.
 
-**Nota:** el código procede de una versión archivada del proyecto. No se ha recompilado ni probado aquí. No utilices información de clientes reales al mostrarlo.
+## Estructura del código
 
-## Organización
+- [`Forms/`](codigo-fuente/Forms/) — interfaz de usuario.
+- [`Services/`](codigo-fuente/Services/) — operaciones, cálculos y seguridad.
+- [`Data/`](codigo-fuente/Data/) — base de datos y persistencia.
+- [`Models/`](codigo-fuente/Models/) — entidades.
 
-- [`codigo-fuente/Forms/`](codigo-fuente/Forms/) — interfaz y formularios
-- [`codigo-fuente/Services/`](codigo-fuente/Services/) — lógica de facturación y seguridad
-- [`codigo-fuente/Data/`](codigo-fuente/Data/) — conexión y persistencia
-- [`codigo-fuente/Models/`](codigo-fuente/Models/) — entidades
+> **Nota:** código de una versión académica archivada. No se ha recompilado ni probado como parte de esta preparación del portafolio. Los datos mostrados en las capturas son para demostración.

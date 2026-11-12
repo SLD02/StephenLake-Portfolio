@@ -1,31 +1,39 @@
-# 📱 Mi Bolsillo — Aplicación de finanzas personales
+# 📱 Mi Bolsillo — Finanzas personales
 
-![Logo real de Mi Bolsillo](imagenes/logo-mi-bolsillo.png)
+Aplicación móvil desarrollada como proyecto personal, orientada al registro y análisis de finanzas personales. **En desarrollo y pruebas.**
 
-**Tipo:** proyecto personal de desarrollo móvil · **Estado:** en desarrollo y pruebas
+<img src="imagenes/logo-mi-bolsillo.png" alt="Logo de Mi Bolsillo" width="140" />
 
-**Tecnologías:** React Native, Expo, JavaScript, SQLite, Supabase.
+## Tecnologías
 
-## ¿Qué hace?
+`React Native` · `Expo` · `JavaScript` · `SQLite` · `Supabase`
 
-Mi Bolsillo es una aplicación móvil para registrar ingresos y gastos, consultar estadísticas, planificar presupuestos y organizar metas de ahorro. También incorpora opciones de personalización de interfaz y herramientas financieras en evolución.
+## Funcionalidades
 
-## Funciones implementadas y trabajadas
-
-- Registro y consulta de movimientos financieros.
-- Resúmenes y gráficos de ingresos y gastos.
-- Presupuestos y metas de ahorro.
-- Tema claro/oscuro, ajustes de apariencia y navegación por pestañas.
-- Integración con SQLite y desarrollo de servicios en Supabase.
+- Registro y consulta de ingresos, gastos y movimientos recientes.
+- Panel de inicio con balance y accesos rápidos.
+- Estadísticas, gráficos y resúmenes mensuales.
+- Presupuestos por categorías y seguimiento del gasto.
+- Creación y seguimiento de metas de ahorro.
+- Personalización del aspecto, herramientas y accesibilidad.
+- Funciones de sincronización y análisis financiero en desarrollo.
 
 ## Capturas de pantalla
 
-**Pendientes de añadir:** imágenes reales de Inicio, Estadísticas, Presupuestos, Metas y Ajustes. Consulta la [guía de capturas](imagenes/LEEME_CAPTURAS.md).
+Todas las imágenes siguientes corresponden a pantallas de la aplicación.
+
+| Inicio | Estadísticas | Presupuesto |
+|:---:|:---:|:---:|
+| <img src="imagenes/inicio.png" width="200" alt="Inicio"> | <img src="imagenes/estadisticas.png" width="200" alt="Estadísticas"> | <img src="imagenes/presupuesto.png" width="200" alt="Presupuesto"> |
+
+| Metas de ahorro | Ajustes |
+|:---:|:---:|
+| <img src="imagenes/metas-de-ahorro.png" width="200" alt="Metas de ahorro"> | <img src="imagenes/ajustes-sin-correo.png" width="200" alt="Ajustes con correo oculto"> |
+
+## Rol en el proyecto
+
+Diseño de interfaces, implementación de funcionalidades, manejo de almacenamiento local, integración de servicios y pruebas en Android y iOS.
 
 ## Código fuente
 
-La versión completa está en revisión antes de publicarse. Se está trabajando en verificar el aislamiento de los datos entre cuentas, la autenticación y la seguridad de sincronización. Este repositorio muestra el proyecto y su documentación, pero no afirma que la aplicación esté lista para producción.
-
-## Rol
-
-Desarrollo de interfaz, lógica de la aplicación, persistencia local y pruebas en dispositivos móviles.
+El código completo de la app no forma parte de este portafolio público mientras se revisan los controles de privacidad, autenticación y aislamiento de datos. Esta presentación muestra funciones y capturas, no certifica que la aplicación esté lista para producción.

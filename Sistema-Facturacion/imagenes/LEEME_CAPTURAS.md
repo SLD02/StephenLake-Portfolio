@@ -1,16 +1,8 @@
 # Capturas del sistema de facturación
 
-Guarda aquí **capturas reales** (PNG/JPG), preferiblemente con datos de prueba:
+Imágenes reales de la aplicación:
 
-- `login.png` — inicio de sesión
-- `panel.png` — menú principal
-- `factura.png` — ejemplo de factura sin datos personales reales
-- `reportes.png` — informes del sistema
-
-Después, enlázalas desde el README del proyecto:
-
-```markdown
-![Pantalla de facturación](imagenes/factura.png)
-```
-
-Nunca incluyas contraseñas, cédulas, datos de clientes reales ni claves de acceso en una imagen.
+- `acceso.png` — inicio de sesión.
+- `nueva-venta.png` — captura de venta.
+- `factura-generada.png` — comprobante emitido.
+- `reporte-cuadre-dia.png` — reporte de facturación.
