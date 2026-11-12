@@ -31,13 +31,6 @@ Sistema de escritorio para registrar ventas, administrar información de factura
 
 ![Reporte de facturación](imagenes/reporte-cuadre-dia.png)
 
-## Cómo ejecutarlo
-
-1. Instala **Visual Studio 2022** con desarrollo de escritorio .NET.
-2. Instala **.NET 8 SDK** y SQL Server Express o LocalDB.
-3. Abre [`codigo-fuente/SistemaFacturacionWinForms.sln`](codigo-fuente/SistemaFacturacionWinForms.sln).
-4. Restaura los paquetes y presiona **F5**.
-5. Configura el servidor SQL Server y crea la cuenta administradora inicial.
 
 ## Estructura del código
 
