@@ -38,5 +38,3 @@ Sistema de escritorio para registrar ventas, administrar información de factura
 - [`Services/`](codigo-fuente/Services/) — operaciones, cálculos y seguridad.
 - [`Data/`](codigo-fuente/Data/) — base de datos y persistencia.
 - [`Models/`](codigo-fuente/Models/) — entidades.
-
-> **Nota:** código de una versión académica archivada. No se ha recompilado ni probado como parte de esta preparación del portafolio. Los datos mostrados en las capturas son para demostración.
