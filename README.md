@@ -1,35 +1,51 @@
-# Geovani Stephen Lake Duran
-Estudiante de Ingeniería en Software | Desarrollo de aplicaciones | C# · SQL Server · React Native
+# Geovani Stephen Lake Duran 👋
+**Desarrollador de Software Junior | React Native · C# · .NET · SQL Server · QA**
 
-¡Hola! Soy Geovani, estudiante de Ingeniería en Software en la Universidad Domínico-Americana (UNICDA) y técnico en Desarrollo y Administración de Aplicaciones Informáticas. Me interesa crear aplicaciones útiles, aprender de proyectos reales y continuar creciendo como desarrollador de software.
+Estudiante de **Ingeniería en Software en UNICDA** y técnico en Desarrollo y Administración de Aplicaciones Informáticas. Me gusta construir soluciones que resuelvan problemas reales, probarlas en dispositivos y mejorarlas a partir de los resultados.
 
-Este repositorio reúne aplicaciones que he desarrollado, con una explicación de sus funciones, tecnologías y decisiones técnicas. Mi objetivo es compartir mi trabajo y facilitar su revisión por parte de equipos de desarrollo y reclutadores.
-Proyectos destacados:
- Mi Bolsillo — Aplicación móvil de finanzas personales
-Aplicación para registrar ingresos y gastos, consultar estadísticas, administrar presupuestos y organizar metas de ahorro.
-- Tecnologías: React Native, JavaScript, Expo y SQLite.
-- Funciones trabajadas: registro de movimientos, resúmenes financieros, presupuestos, metas de ahorro y personalización de la interfaz.
-- Plataformas de prueba: Android e iOS.
-- Código, capturas e instrucciones: se incorporarán en la carpeta Mi-Bolsillo/.
-   Sistema de Facturación — Aplicación de escritorio
-Proyecto de gestión de facturas, desarrollado con una interfaz de escritorio y base de datos relacional.
-- Tecnologías: C#, Windows Forms y SQL Server.
-- Funciones trabajadas: inicio de sesión, operaciones de registro y consulta, gestión de facturas y acceso a datos mediante SQL Server.
-- Código, capturas e instrucciones: se incorporarán en la carpeta Sistema-Facturacion/.
-Tecnologías con las que he trabajado
-Desarrollo	Datos y herramientas
-C# y Windows Forms	SQL Server y SQLite
-JavaScript, React Native y Expo	Git y GitHub
-Programación orientada a objetos	Visual Studio y Visual Studio Code
+📍 República Dominicana · [LinkedIn](https://www.linkedin.com/in/geovani-stephen-lake-duran-58b41b450) · [Correo](mailto:stephenlakeduran@gmail.com)
 
+## 🚀 Proyectos destacados
 
-Formación y experiencia
-- Ingeniería en Software — Universidad Domínico-Americana (UNICDA), en curso.
-- Técnico en Desarrollo y Administración de Aplicaciones Informáticas — Politécnico Colegio Nuestra Señora del Perpetuo Socorro.
-- Experiencia en redes y administración de sistemas — CESAC.
-- Experiencia en servicio al cliente — AMOV International Teleservices.
-Lo que busco
-Oportunidades para crecer como Desarrollador de Software Junior, Programador Trainee o Desarrollador de Aplicaciones, en equipos donde pueda aportar mis conocimientos, aprender buenas prácticas y colaborar en soluciones reales.
-Contacto
-- GitHub: @SLD02
-- Correo: stephenlakeduran@gmail.com
+### 📱 [Mi Bolsillo — Aplicación móvil de finanzas personales](Mi-Bolsillo/)
+**Proyecto personal en desarrollo y pruebas | React Native, Expo, JavaScript, Supabase y SQLite**
+
+Mi Bolsillo permite registrar ingresos y gastos, visualizar estadísticas, configurar presupuestos por categoría y dar seguimiento a metas de ahorro. También he trabajado en la experiencia de usuario, la persistencia de datos, la autenticación y las pruebas de flujos móviles.
+
+<p align="center"><img src="Mi-Bolsillo/imagenes/logo-mi-bolsillo.png" alt="Logo actual de Mi Bolsillo" width="115" /></p>
+
+| Inicio | Estadísticas | Registrar ingresos |
+|:---:|:---:|:---:|
+| <img src="Mi-Bolsillo/imagenes/inicio.png" width="200" alt="Inicio de Mi Bolsillo" /> | <img src="Mi-Bolsillo/imagenes/estadisticas.png" width="200" alt="Estadísticas de Mi Bolsillo" /> | <img src="Mi-Bolsillo/imagenes/agregar-movimiento-ingreso.png" width="200" alt="Registrar ingresos" /> |
+
+**[Ver todas las capturas, funcionalidades y decisiones técnicas de Mi Bolsillo →](Mi-Bolsillo/README.md)**
+
+> El código fuente completo de Mi Bolsillo se mantiene privado mientras el proyecto continúa en desarrollo y se revisan sus controles de seguridad. Las capturas son de la versión de noviembre de 2026.
+
+### 🧾 [Sistema de Facturación — Aplicación de escritorio](Sistema-Facturacion/)
+**Proyecto académico | C#, Windows Forms, .NET 8, Entity Framework Core y SQL Server**
+
+Aplicación para gestionar ventas, facturas, usuarios y reportes de caja. Incluye autenticación para usuarios, operaciones de facturación y acceso a datos relacionales. Su código está disponible para revisión.
+
+| Nueva venta | Factura generada | Reporte del día |
+|:---:|:---:|:---:|
+| <img src="Sistema-Facturacion/imagenes/nueva-venta.png" width="245" alt="Nueva venta" /> | <img src="Sistema-Facturacion/imagenes/factura-generada.png" width="245" alt="Factura generada" /> | <img src="Sistema-Facturacion/imagenes/reporte-cuadre-dia.png" width="245" alt="Reporte del día" /> |
+
+**[Explorar el proyecto y su código fuente →](Sistema-Facturacion/README.md)**
+
+## 🛠️ Tecnologías y herramientas
+- **Desarrollo móvil:** React Native, Expo, JavaScript.
+- **Desarrollo de escritorio:** C#, .NET, Windows Forms, programación orientada a objetos.
+- **Datos:** SQL Server, PostgreSQL, SQLite, Supabase.
+- **Pruebas y colaboración:** pruebas funcionales, Postman, Jira, Git y GitHub.
+
+## 🎓 Formación y experiencia
+- **Ingeniería en Software**, Universidad Domínico-Americana (UNICDA), en curso.
+- **Técnico en Desarrollo y Administración de Aplicaciones Informáticas**, Politécnico Colegio Nuestra Señora del Perpetuo Socorro FARD.
+- **CESAC:** prácticas relacionadas con redes y administración de sistemas.
+- **AMOV International Teleservices:** atención y servicio al cliente.
+
+## 🎯 Lo que busco
+Oportunidades junior para desarrollar aplicaciones móviles y software, colaborar en productos reales y continuar aprendiendo buenas prácticas de ingeniería y calidad.
+
+**[Contactar por correo](mailto:stephenlakeduran@gmail.com) · [Ver LinkedIn](https://www.linkedin.com/in/geovani-stephen-lake-duran-58b41b450)**
